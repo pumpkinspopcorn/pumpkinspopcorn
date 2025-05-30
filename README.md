@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @pumpkinspopcorn or you can just call me by my real name, Mohit.
+- 👀 I’m interested in working as a data scientist and data analyst. I love Machine Learning and AI.
+- 🌱 I’m currently learning Cybersecurity and Cloud Computing and some parts of web development.
+- 💞️ I’m looking to collaborate on any field related to IT. I love learning new things.
+- 📫 Reach me on my email - mohit.ksharma2305@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a bachelors in Computer Science and Masters in Business Intelligence and Analytics. I live in London and sometimes I love to do FPS gaming.
