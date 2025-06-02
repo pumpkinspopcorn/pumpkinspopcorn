@@ -3,6 +3,7 @@
 </div>
 
 ###
+  
 
 <div align="center">
   <a href="https://discord.com/invite/FzsJjpHwXj" target="_blank">
@@ -18,19 +19,20 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<div align="center">HI THERE
+  <h1 align="center">Welcome to my GitHub</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">  About Me -</h3>
 
 ###
 
-<p align="left">I'm Mohit from London.<br><br>- I completed my Bachelor's in Computer Science and Master's in Data Science<br>- I'm currently learning Cyber Security <br>- In my free time I play piano, guitar and make electronic music.<br>- I’m looking to collaborate on any field related to IT. I love learning new things.<br>- Buy me a coffee: https://buymeacoffee.com/pumpkinspopcorn</p>
+<p align="left">I'm Mohit from London.<br><br>- I completed my Bachelor's in Computer Science and Master's in Data Science<br>- I'm currently learning Cyber Security and Web Development <br>- In my free time I play piano, guitar and make electronic music.<br>- I’m looking to collaborate on any field related to IT. I love learning new things.<br>- Buy me a coffee: https://buymeacoffee.com/pumpkinspopcorn</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Language and tools -</h3>
 
 ###
 
