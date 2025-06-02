@@ -19,7 +19,7 @@
 
 ###
 
-<div align="center">HI THERE
+<div align="center">Hi there
   <h1 align="center">Welcome to my GitHub</h1>
 
 ###
