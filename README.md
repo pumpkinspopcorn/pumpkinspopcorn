@@ -12,7 +12,7 @@
   <a href="mohit.ksharma2305@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.twitch.tv/pumpkinspopcorn" target="_blank">
+  <a href ="https://www.twitch.tv/pumpkinspopcorn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
 </div>
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Mohit from London.<br><br>- I completed my Bachelor's in Computer Science and Master's in Data Science<br>- I'm currently learning Cyber Security and Web Development <br>- In my free time I play piano, guitar and make electronic music.<br>- I’m looking to collaborate on any field related to IT. I love learning new things.<br>- Buy me a coffee: https://buymeacoffee.com/pumpkinspopcorn</p>
+<p align="left">I'm Mohit from London.<br><br>- I completed my Bachelor's in Computer Science and Master's in Data Science<br>- I'm currently learning Cyber Security and Web Development <br>- In my free time I play piano,ukulele,guitar and make electronic music.<br>- I’m looking to collaborate on any field related to IT. I love learning new things.<br>- Buy me a coffee: https://buymeacoffee.com/pumpkinspopcorn</p>
 
 ###
 
