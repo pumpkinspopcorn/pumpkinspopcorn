@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Mohit from London.<br><br>- I completed my Bachelor's in Computer Science and Master's in Data Science<br> <br>- In my free time I play piano,ukulele,guitar and make electronic music.<br>- I’m looking to collaborate on any field related to IT. I love learning new things.<br>- Buy me a coffee: https://buymeacoffee.com/pumpkinspopcorn</p>
+<p align="left">I'm Mohit from London.<br><br>- I completed my Bachelor's in Computer Science and Master's in Data Science<br><br>- In my free time I play piano,ukulele,guitar and make electronic music.<br>- I’m looking to collaborate on any field related to IT. I love learning new things.<br>- Buy me a coffee: https://buymeacoffee.com/pumpkinspopcorn</p>
 
 ###
 
