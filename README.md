@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Hey there, I'm Mohit Sharma.<br><br>- I completed my Bachelor's in Computer Science and Master's in Data Science<br>- In my free time I play piano,ukulele,guitar and make electronic music.<br>- I’m looking to collaborate on any field related to IT. I love learning new things.<br>- Buy me a coffee: https://buymeacoffee.com/pumpkinspopcorn</p>
+<p align="left">Hey there, I'm Mohit Sharma.<br><br>- I completed my Bachelor's in Computer Science and Master's in Data Science. Love the idea of coding specially in python (still lots to explore).<br>- In my free time I play piano,ukulele,guitar and make electronic music.<br>- I’m looking to collaborate on any field related to IT. I love learning new things.<br>- Buy me a coffee: https://buymeacoffee.com/pumpkinspopcorn</p>
 
 ###
 
